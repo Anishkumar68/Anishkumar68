@@ -6,7 +6,7 @@ I build production-ready web apps, backend APIs, healthcare platforms, and AI-po
 
 ---
 
-## 🔗 Connect
+## 🔗 contact me
 
 [![GitHub](https://img.shields.io/badge/GitHub-Anishkumar68-black?style=for-the-badge&logo=github)](https://github.com/Anishkumar68)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Anish%20Kumar-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anishkumar-pythondev)
