@@ -8,7 +8,7 @@ I build production-ready web apps, backend APIs, healthcare platforms, and AI-po
 
 ## 🔗 contact me
 
-[![GitHub](https://img.shields.io/badge/GitHub-Anishkumar68-black?style=for-the-badge&logo=github)](https://github.com/Anishkumar68)
+[![GitHub](https://img.shields.io/badge/GitHub-Anishkumar68-black?style=for-the-badge&logo=github)](https://github.com/Anishkumar-yuvahealth)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Anish%20Kumar-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anishkumar-pythondev)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:anishkumar231999@gmail.com)
 
