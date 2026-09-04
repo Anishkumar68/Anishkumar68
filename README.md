@@ -1,9 +1,5 @@
-# Hi, I'm Anish Kumar 👋
-
-### Full Stack Developer | Healthcare Systems | AI + Automation
-
-I build production-ready web apps, backend APIs, healthcare platforms, and AI-powered systems.
-
+# Anish Kumar
+## Software Engineer | Python Developer | Gen AI | AWS
 ---
 
 ## 🔗 contact me
