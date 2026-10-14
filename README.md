@@ -17,7 +17,7 @@
 
 ## About Me
 
-Software Engineer with 3+ years of hands-on experience building scalable backend systems using Python, FastAPI, and AWS. I build production-ready APIs, serverless services, AI integrations, and e-commerce middleware that connect business systems efficiently.
+Software Engineer with 3+ years of hands-on experience building scalable backend systems using Python, FastAPI, and AWS. I build production-ready APIs, serverless services, AI integrations, and e-[...]
 
 ---
 
@@ -181,5 +181,5 @@ Aug 2021 – Apr 2023
 ---
 
 <p align="center">
-<img src="https://count.getloli.com/get/@Anishkumar68.github.readme" alt="Profile views" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Anishkumar68.Anishkumar68" alt="Unique Visitors" />
 </p>
